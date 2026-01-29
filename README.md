@@ -1,6 +1,6 @@
 <div>
   <h2>Skills and Interests:</h2>
-  <img align="right" alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willhudd&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="100px" />
+  <img align="right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willhudd&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="100px" />
   <img src="https://img.shields.io/badge/TypeScript-222222?style=for-the-badge&logo=TypeScript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/React-222222?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-222222?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
@@ -24,5 +24,7 @@
       ✍️ Building an EDR in rust.
       <br/>
       🤝 Looking for junior cyber security and developer roles.
+      <br/>
+      📖 Working towards the compTIA security+ certification.
   </p>
 <div/>
