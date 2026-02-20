@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Rust-222222?style=for-the-badge&logo=Rust&logoColor=DEA584" />
   <img src="https://img.shields.io/badge/Linux-222222?style=for-the-badge&logo=Linux&logoColor=FCC624" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-222222?style=for-the-badge&logo=RaspberryPi&logoColor=C51A4A" />
-  
+
   <img align="right" src="https://tryhackme-badges.s3.amazonaws.com/will812.png" alt="THM Badge Image" />
 
   <h3>I'm Currently:</h3>
