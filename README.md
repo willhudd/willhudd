@@ -21,7 +21,7 @@
 
   <h3>I'm Currently:</h3>
   <p>
-      ✍️ Building an EDR in rust.
+      ✍️ Building a HIDS in rust.
       <br/>
       🤝 Looking for junior cyber security and developer roles.
       <br/>
