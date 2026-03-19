@@ -25,6 +25,6 @@
       <br/>
       🤝 Looking for junior cyber security and developer roles.
       <br/>
-      📖 Working towards the compTIA security+ certification.
+      🎉 Just passed the compTIA Security+ - March 2026
   </p>
 <div/>
